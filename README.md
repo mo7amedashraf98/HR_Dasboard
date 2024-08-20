@@ -1,5 +1,6 @@
 
 # HR Analysis Project
+![HR_Dashboard](https://github.com/user-attachments/assets/35237358-10d4-4079-ac90-ede68fdb6d4b)
 
 ## 1. Tools Used:
 
